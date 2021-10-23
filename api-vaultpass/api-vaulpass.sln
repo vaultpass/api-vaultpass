@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api-vaulpass.Api", "api-vaulpass\api-vaulpass.Api.csproj", "{4FFF3F0A-121F-4DA5-A591-B6DBC7391D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vaultpass.Api", "Vaultpass.Api\Vaultpass.Api.csproj", "{4FFF3F0A-121F-4DA5-A591-B6DBC7391D3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-vaultpass.Domain", "api-vaultpass.Domain\api-vaultpass.Domain.csproj", "{81F1FCDA-6FD5-47FE-BCA0-4B5B093F98D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaultpass.Api.Domain", "Vaultpass.Api.Domain\Vaultpass.Api.Domain.csproj", "{81F1FCDA-6FD5-47FE-BCA0-4B5B093F98D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-vaulpass.Infrastructure", "api-vaulpass.Infrastructure\api-vaulpass.Infrastructure.csproj", "{B7715890-03F8-4B6D-B568-B429087E53EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaultpass.Api.Infrastructure", "Vaultpass.Api.Infrastructure\Vaultpass.Api.Infrastructure.csproj", "{B7715890-03F8-4B6D-B568-B429087E53EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-vaultpass.Test", "api-vaultpass.Test\api-vaultpass.Test.csproj", "{AA7A2BCB-F814-475E-90C5-D9DFE2796B3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaultpass.Api.Test", "Vaultpass.Api.Test\Vaultpass.Api.Test.csproj", "{AA7A2BCB-F814-475E-90C5-D9DFE2796B3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
