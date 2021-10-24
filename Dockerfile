@@ -1,7 +1,6 @@
 FROM microsoft/dotnet:5.0-sdk as build
 WORKDIR /app
 
-COPY *.sql .
 COPY api-vaultpass/VaultPass.Api/*.csproj ./VaultPass.Api/
 RUN dotnet restore
 
